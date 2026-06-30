@@ -1,4 +1,4 @@
-package iagoclima22.maratonajava.introducao;
+package academy.devdojo.maratonajava.introducao;
 /*
 Prática
 
